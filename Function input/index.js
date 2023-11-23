@@ -14,3 +14,4 @@ function subtract(digit, digit1) {
 
     console.log('Sum:', digit-digit1)
 }
+
